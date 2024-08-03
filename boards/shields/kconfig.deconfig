@@ -1,0 +1,6 @@
+if SHIELD_ckb3
+
+config ZMK_KEYBOARD_NAME
+    default "ckb3"
+
+endif
