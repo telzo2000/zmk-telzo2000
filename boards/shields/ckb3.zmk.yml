@@ -1,0 +1,8 @@
+file_format: "1"
+id: ckb3
+name: ckb3
+type: shield
+url: https://github.com/telzo2000/ckb3
+requires: [pro_micro]
+features:
+  - keys
